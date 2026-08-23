@@ -1,4 +1,4 @@
-# A Little Computer
+# // A Little Computer
 
 Purpose
 -------
@@ -8,10 +8,10 @@ reliability, and safety constraints.
 
 Current architecture
 --------------------
-RAM:      256 bytes
-CPU:      Not implemented
-Registers: Not implemented
-ISA:       Not implemented
+RAM:      256 bytes <br>
+CPU:      Not implemented <br>
+Registers: Not implemented <br>
+ISA:       Not implemented <br>
 
 Current milestone
 -----------------
@@ -30,15 +30,15 @@ Disciplines
 Roadmap
 -------
 RAM
- ↓
+ →
 Registers
- ↓
+ →
 CPU
- ↓
+ →
 Assembler
- ↓
+ →
 VM
- ↓
+ →
 Game system
  ↓
  .
