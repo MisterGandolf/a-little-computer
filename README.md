@@ -1,4 +1,4 @@
-// A Little Computer
+# A Little Computer
 
 Purpose
 -------
